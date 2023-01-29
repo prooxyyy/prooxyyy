@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/XKSAVbcfd7sAAAAC/discord-baner-discord-profile.gif" />
+<img src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" />
 
 
 ### Hi there, i'm Denys👋
