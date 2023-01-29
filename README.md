@@ -1,4 +1,4 @@
-![image](https://www.msci.com/documents/portlet_file_entry/1296102/825x294px-ESG_ScreenedIndexes-LandingPage-01B.gif/2b3a6e6d-867b-249e-c4f8-11875d7d5c78)
+<img src="https://www.msci.com/documents/portlet_file_entry/1296102/825x294px-ESG_ScreenedIndexes-LandingPage-01B.gif/2b3a6e6d-867b-249e-c4f8-11875d7d5c78"/>
 
 
 ### Hi there, i'm Denys👋
