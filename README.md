@@ -11,13 +11,13 @@
 # 😜 About me
 > Name: `Denys`
 
-> Marital Status: `Alone`
+> Marital Status: `In love`
 
 > Live in: `Kyiv, Ukraine`
 
-> Languages: `Python, Java, Kotlin, PHP, C#`
+> Languages: `Python, Java, Swift, Objective-C, Kotlin, PHP, C#, Node.JS, Typescript`
 
-> Fun facts: `Lonely, homebody, likes to code, has two cats`
+> Fun facts: `Homebody, likes to code, has two cats`
 
 # ⚡ Stats
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prooxyyy&theme=radical"/>
