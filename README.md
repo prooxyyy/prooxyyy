@@ -3,21 +3,19 @@
 
 ### Hi there, i'm Denys👋
 
-🔭 I’m currently working on [@NashVPN](https://github.com/NashVPN)
+I am a Software Engineer, writing absolutely everything from websites to L4/L7 layers of DDOS protection.
 
-# 📫 My Contacts
-> [![TELEGRAM](https://user-images.githubusercontent.com/6493857/154789665-443a199d-badb-43b2-91b9-95578b55c9b4.png)](https://t.me/xxxxxppppppggggg)
+# 📫 Contact Me
+> [![TELEGRAM](https://user-images.githubusercontent.com/6493857/154789665-443a199d-badb-43b2-91b9-95578b55c9b4.png)](https://t.me/proo0xy)
 
 # 😜 About me
 > Name: `Denys`
 
-> Marital Status: `In love`
-
 > Live in: `Kyiv, Ukraine`
 
-> Languages: `Python, Java, Swift, Objective-C, Kotlin, PHP, C#, Node.JS, Typescript`
+> Languages: `Java, Swift, Objective-C, Python, C#, C++, Lua, Node.JS, Golang`
 
-> Fun facts: `Homebody, likes to code, has two cats`
+> Tecnhologies: `Spring, Next.JS, Vue.JS, React.JS, FastAPI, WPF, XDP, Linux, Git, MariaDB, MongoDB, Redis, RabbitMQ, ELK, Gitlab, Grafana, Proxmox, Sentry, Docker, Nginx, Apache, Tailwind CSS, SwiftUI, UIKit and a lot more`
 
 # ⚡ Stats
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prooxyyy&theme=radical"/>
